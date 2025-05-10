@@ -8,6 +8,7 @@ This project showcases a creative introduction animation, responsive layout, and
 (Coming Soon — Deploy using Vercel, Netlify, or GitHub Pages)
 
 ![GTA VI Landing Screenshot](./k1.png)
+![GTA VI Landing Screenshot](./k2.png)
 
 ## 🛠️ Tech Stack
 
