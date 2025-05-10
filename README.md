@@ -7,6 +7,8 @@ This project showcases a creative introduction animation, responsive layout, and
 
 (Coming Soon — Deploy using Vercel, Netlify, or GitHub Pages)
 
+![GTA VI Landing Screenshot](./k1.png)
+
 ## 🛠️ Tech Stack
 
 - **React.js** – Frontend framework
