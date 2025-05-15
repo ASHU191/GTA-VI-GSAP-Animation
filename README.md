@@ -21,3 +21,5 @@ This project showcases a creative introduction animation, responsive layout, and
 - 📱 Responsive design
 - 🎨 Animated headings and download CTA
 
+![GTA VI Landing Screenshot](./screenshot.png)
+![GTA VI Landing Screenshot](./screenshot.png)
